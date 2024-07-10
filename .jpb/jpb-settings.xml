@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit name="BookPersistence">
+        <packages>
+          <package value="com.pruebajpa.my_crud.controller" />
+        </packages>
+        <entities>
+          <entity value="com.pruebajpa.my_crud.model.Book" />
+        </entities>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>
